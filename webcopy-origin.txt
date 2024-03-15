@@ -1,0 +1,120 @@
+Uri: https://cdn.freekassa.ru/banners/big-dark-1.png
+File Name: C:\Downloaded Web Sites\welvura12.win\banners\big-dark-1.png
+Content Type: image/png
+
+Uri: https://fkwallet.com/assets/2017/images/btns/iconsmall_wallet7.png
+File Name: C:\Downloaded Web Sites\welvura12.win\assets\2017\images\btns\iconsmall_wallet7.png
+Content Type: image/png
+
+Uri: https://kit.fontawesome.com/8690af9c33.js
+File Name: C:\Downloaded Web Sites\welvura12.win\8690af9c33.js
+Content Type: text/javascript
+
+Uri: https://mc.yandex.ru/watch/96381724
+File Name: C:\Downloaded Web Sites\welvura12.win\watch\96381724
+Content Type: image/gif
+
+Uri: https://welvura12.win/css/bootstrap.css?v=111710285257
+File Name: C:\Downloaded Web Sites\welvura12.win\css\bootstrap.css
+Content Type: text/css
+
+Uri: https://welvura12.win/css/bootstrap_add.css?v=11710285257
+File Name: C:\Downloaded Web Sites\welvura12.win\css\bootstrap_add.css
+Content Type: text/css
+
+Uri: https://welvura12.win/css/cook.css?v=1710285257
+File Name: C:\Downloaded Web Sites\welvura12.win\css\cook.css
+Content Type: text/css
+
+Uri: https://welvura12.win/css/custom.css?v=11710285257
+File Name: C:\Downloaded Web Sites\welvura12.win\css\custom.css
+Content Type: text/css
+
+Uri: https://welvura12.win/css/ionicons.css?v=1710285257
+File Name: C:\Downloaded Web Sites\welvura12.win\css\ionicons.css
+Content Type: text/css
+
+Uri: https://welvura12.win/css/jqvmap.css?v=1710285257
+File Name: C:\Downloaded Web Sites\welvura12.win\css\jqvmap.css
+Content Type: text/css
+
+Uri: https://welvura12.win/css/main.css?v=1371710285257
+File Name: C:\Downloaded Web Sites\welvura12.win\css\main.css
+Content Type: text/css
+
+Uri: https://welvura12.win/css/noty.css?v=1710285257
+File Name: C:\Downloaded Web Sites\welvura12.win\css\noty.css
+Content Type: text/css
+
+Uri: https://welvura12.win/css/skin.css?v=1710285257
+File Name: C:\Downloaded Web Sites\welvura12.win\css\skin.css
+Content Type: text/css
+
+Uri: https://welvura12.win/dist/js/apexcharts.min.js
+File Name: C:\Downloaded Web Sites\welvura12.win\dist\js\apexcharts.min.js
+Content Type: application/javascript
+
+Uri: https://welvura12.win/dist/js/bootstrap.js
+File Name: C:\Downloaded Web Sites\welvura12.win\dist\js\bootstrap.js
+Content Type: application/javascript
+
+Uri: https://welvura12.win/dist/js/cbrd.js
+File Name: C:\Downloaded Web Sites\welvura12.win\dist\js\cbrd.js
+Content Type: application/javascript
+
+Uri: https://welvura12.win/dist/js/chart.min.js
+File Name: C:\Downloaded Web Sites\welvura12.win\dist\js\chart.min.js
+Content Type: application/javascript
+
+Uri: https://welvura12.win/dist/js/chartjs-plugin-labels.js
+File Name: C:\Downloaded Web Sites\welvura12.win\dist\js\chartjs-plugin-labels.js
+Content Type: application/javascript
+
+Uri: https://welvura12.win/dist/js/dataTables.js
+File Name: C:\Downloaded Web Sites\welvura12.win\dist\js\dataTables.js
+Content Type: application/javascript
+
+Uri: https://welvura12.win/dist/js/dataTables.responsive.min.js
+File Name: C:\Downloaded Web Sites\welvura12.win\dist\js\dataTables.responsive.min.js
+Content Type: application/javascript
+
+Uri: https://welvura12.win/dist/js/daterangepicker.js
+File Name: C:\Downloaded Web Sites\welvura12.win\dist\js\daterangepicker.js
+Content Type: application/javascript
+
+Uri: https://welvura12.win/dist/js/ion.js
+File Name: C:\Downloaded Web Sites\welvura12.win\dist\js\ion.js
+Content Type: application/javascript
+
+Uri: https://welvura12.win/dist/js/jquery-ui.min.js
+File Name: C:\Downloaded Web Sites\welvura12.win\dist\js\jquery-ui.min.js
+Content Type: application/javascript
+
+Uri: https://welvura12.win/dist/js/jquery.js
+File Name: C:\Downloaded Web Sites\welvura12.win\dist\js\jquery.js
+Content Type: application/javascript
+
+Uri: https://welvura12.win/dist/js/moment.js?v=1
+File Name: C:\Downloaded Web Sites\welvura12.win\dist\js\moment.js
+Content Type: application/javascript
+
+Uri: https://welvura12.win/dist/js/odometer.js
+File Name: C:\Downloaded Web Sites\welvura12.win\dist\js\odometer.js
+Content Type: application/javascript
+
+Uri: https://welvura12.win/dist/js/perfect-scrollbar.js
+File Name: C:\Downloaded Web Sites\welvura12.win\dist\js\perfect-scrollbar.js
+Content Type: application/javascript
+
+Uri: https://welvura12.win/image/favicon.ico?11
+File Name: C:\Downloaded Web Sites\welvura12.win\image\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://welvura12.win/jackpot
+File Name: C:\Downloaded Web Sites\welvura12.win\jackpot.html
+Content Type: text/html
+
+Uri: https://welvura12.win/js/app.js?v=21710285257
+File Name: C:\Downloaded Web Sites\welvura12.win\js\app.js
+Content Type: application/javascript
+
